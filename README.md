@@ -1,3 +1,3 @@
 # wollok-git
 
-una prueba de push 
+mi version local 
