@@ -1,3 +1,3 @@
 # wollok-git
 
-mi version local 
+mi version local y mi version remota
